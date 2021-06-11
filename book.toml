@@ -1,0 +1,6 @@
+[book]
+authors = ["Shamil Yakupov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tutorial Example"
